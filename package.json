@@ -48,5 +48,5 @@
     "twin.macro": "^3.4.0",
     "typescript": "^5.1.6"
   },
-  "version": "0.3.0"
+  "version": "0.3.1"
 }

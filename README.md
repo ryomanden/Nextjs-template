@@ -1,3 +1,5 @@
+<h1 align="center">NextJS-template<h1>
+EmotionとTwin.macroに加えて、ESLintとかhuskyとか使えるようにした便利なテンプレ。
 
 ## yarn
 install
@@ -30,7 +32,7 @@ git push origin --tags
 - husky - git commitの時に自動でリント・整形
 
 ## ⚠️　blogなどで使う場合　⚠️
-以下のような文言をLICENSEに追加し、投稿したコンテンツやページの内容自体にはMITライセンスを適用しない（つまりコンテンツの著作権を放棄しない）事を明示します。
+以下のような文言を`LICENSE`に追加し、投稿したコンテンツやページの内容自体にはMITライセンスを適用しない（つまりコンテンツの著作権を放棄しない）事を明示します。
 ```diff
 MIT License
 

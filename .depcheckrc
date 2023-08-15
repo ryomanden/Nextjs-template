@@ -1,0 +1,2 @@
+ignores: ["@types/node", "depcheck", "stylelint*", "clsx"]
+ignore-patterns: [".history", ".vscode", "dist", "node_modules"]

@@ -1,5 +1,7 @@
-<h1 align="center">NextJS-template<h1>
+<h1 align="center">NextJS-template</h1>
+<p align="center">
 EmotionとTwin.macroに加えて、ESLintとかhuskyとか使えるようにした便利なテンプレ。
+</p>
 
 ## yarn
 install
@@ -36,7 +38,7 @@ git push origin --tags
 ```diff
 MIT License
 
-Copyright (c) 2023 Ryo Mitsuda
+Copyright (c) [year] [Full fullname]
 + Except for images / icons / blog contents included in this project.
 
 Permission is hereby granted, free of charge ...

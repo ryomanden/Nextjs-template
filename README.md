@@ -1,11 +1,9 @@
 
 ## yarn
-
 install
 ```zsh
 yarn install
 ```
-
 develop
 ```zsh
 yarn dev
@@ -24,13 +22,23 @@ yarn version [ --major | --minor | --patch | --premajor | --preminor | --prepatc
 git push origin --tags
 ```
 ## using package
-- Next.js
-    - Emotion - CSS in JS
-    - Tailwind CSS - CSS framework
-    - Twin.macro - Tailwind-CSS in JS
-    - ESLint - コードのチェック
-    - Prettier - コードの整形
-    - husky - git commitの時に自動でリント・整形
+- Emotion - CSS in JS
+- Tailwind CSS - CSS framework
+- Twin.macro - Tailwind-CSS in JS
+- ESLint - コードのチェック
+- Prettier - コードの整形
+- husky - git commitの時に自動でリント・整形
+
+## ⚠️　blogなどで使う場合　⚠️
+以下のような文言をLICENSEに追加し、投稿したコンテンツやページの内容自体にはMITライセンスを適用しない（つまりコンテンツの著作権を放棄しない）事を明示します。
+```diff
+MIT License
+
+Copyright (c) 2023 Ryo Mitsuda
++ Except for images / icons / blog contents included in this project.
+
+Permission is hereby granted, free of charge ...
+```
 
 ## source
 <p align="center">
